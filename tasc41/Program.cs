@@ -4,7 +4,7 @@
 // 1, -7, 567, 89, 223-> 3
 
 
-Console.Write($"Введи число нужное количество чисел): ");
+Console.Write($"Введи нужное количество чисел): ");
 int m = Convert.ToInt32(Console.ReadLine());
 int[] massiveNumbers = new int[m];
 
